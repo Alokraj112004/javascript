@@ -96,6 +96,7 @@ else{
   grade='F';
 }
 console.log(grade);
+let v=10;
 
 
 
